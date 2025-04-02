@@ -16,5 +16,3 @@ node server.js
 ```
 
 3. Use o arquivo `cliente/axios-crud.js` para testar ou faça testes com o Postman.
-
-4. Implemente os testes e envie o link do repositório para avaliação.
